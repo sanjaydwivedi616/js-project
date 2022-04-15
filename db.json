@@ -1,0 +1,30 @@
+{
+  "userInfoList": [
+    {
+      "id": 0.5224407892907175,
+      "fristName": "Sanjay",
+      "lastName": "D",
+      "sapID": "111111",
+      "email": "sanja@gmail.com",
+      "contact": "9999999999",
+      "location": "Bangalore",
+      "gender": "Male",
+      "languageSelected": [
+        "Hindi"
+      ]
+    },
+    {
+      "id": 0.341044438694837,
+      "fristName": "hello",
+      "lastName": "hello",
+      "sapID": "121212",
+      "email": "sanj@asfa.asdf",
+      "contact": "3131231",
+      "location": "Pune",
+      "gender": "Male",
+      "languageSelected": [
+        "Hindi"
+      ]
+    }
+  ]
+}

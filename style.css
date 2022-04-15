@@ -1,0 +1,39 @@
+.table {
+    font-family: Arial, Helvetica, sans-serif;
+    border-collapse: collapse;
+    width: 100%;
+  }
+  
+ .table td, .table th {
+    border: 1px solid #ddd;
+    padding: 8px;
+  }
+
+input[type="text"],select{
+    width: 208px;
+    margin: 5px;
+    border: 1px solid gray;
+    padding: 5px;
+    border-radius: 5px;
+  }
+
+input[type="button"], button{
+    background: #12218a;
+    color: #fff;
+    padding: 7px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+  }
+.deleteBtn{
+  background-color: #af1414;
+  margin:  0 0 0 10px;
+}
+.text-center{
+    text-align: center;
+    font-weight: bold;
+  }
+  .radioBtn,label{
+    margin: 5px;
+    font-weight: bold;
+  }
